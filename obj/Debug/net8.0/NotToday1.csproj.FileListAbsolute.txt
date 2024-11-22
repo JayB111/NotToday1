@@ -1,0 +1,14 @@
+C:\Users\jaylj\source\repos\NotToday1\NotToday1\obj\Debug\net8.0\NotToday1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaylj\source\repos\NotToday1\NotToday1\obj\Debug\net8.0\NotToday1.AssemblyInfoInputs.cache
+C:\Users\jaylj\source\repos\NotToday1\NotToday1\obj\Debug\net8.0\NotToday1.AssemblyInfo.cs
+C:\Users\jaylj\source\repos\NotToday1\NotToday1\obj\Debug\net8.0\NotToday1.csproj.CoreCompileInputs.cache
+C:\Users\jaylj\source\repos\NotToday1\NotToday1\bin\Debug\net8.0\NotToday1.exe
+C:\Users\jaylj\source\repos\NotToday1\NotToday1\bin\Debug\net8.0\NotToday1.deps.json
+C:\Users\jaylj\source\repos\NotToday1\NotToday1\bin\Debug\net8.0\NotToday1.runtimeconfig.json
+C:\Users\jaylj\source\repos\NotToday1\NotToday1\bin\Debug\net8.0\NotToday1.dll
+C:\Users\jaylj\source\repos\NotToday1\NotToday1\bin\Debug\net8.0\NotToday1.pdb
+C:\Users\jaylj\source\repos\NotToday1\NotToday1\obj\Debug\net8.0\NotToday1.dll
+C:\Users\jaylj\source\repos\NotToday1\NotToday1\obj\Debug\net8.0\refint\NotToday1.dll
+C:\Users\jaylj\source\repos\NotToday1\NotToday1\obj\Debug\net8.0\NotToday1.pdb
+C:\Users\jaylj\source\repos\NotToday1\NotToday1\obj\Debug\net8.0\NotToday1.genruntimeconfig.cache
+C:\Users\jaylj\source\repos\NotToday1\NotToday1\obj\Debug\net8.0\ref\NotToday1.dll
